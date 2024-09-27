@@ -1,2 +1,2 @@
 # Market_basket_analysis
-my project on MBA
+my project in MBA
